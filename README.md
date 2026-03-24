@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Sachin%20Kumar%20Verma&fontSize=40&fontColor=ffffff" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sachinkumarverma&label=Visitors&color=blueviolet&style=flat-square" />
+</p>
 ---
 
 ## 🚀 About Me
