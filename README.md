@@ -44,10 +44,10 @@
 
 ---
 
-## 🏆 Trophies & Streaks
+## 🏆 Trophies & Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sachinkumarverma&theme=darkhub&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sachinkumarverma&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=3" />
 </p>
 
 ---
@@ -61,3 +61,10 @@
 ## 📈 Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachinkumarverma&theme=github-compact&hide_border=true)](https://github.com/sachinkumarverma)
+
+---
+
+## ⏱️ WakaTime Development Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
