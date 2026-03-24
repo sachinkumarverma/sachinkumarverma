@@ -53,10 +53,3 @@
 ## 📈 Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachinkumarverma&theme=github-compact&hide_border=true)](https://github.com/sachinkumarverma)
-
----
-
-## ⏱️ WakaTime Development Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
