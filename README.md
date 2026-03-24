@@ -47,15 +47,7 @@
 ## 🏆 Trophies & Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sachinkumarverma&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=3" />
-</p>
-
-## 🌐 Portfolio
-
-<p align="center">
-  <a href="https://sachinverma.vercel.app">
-    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-black?style=for-the-badge&logo=vercel" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=sachinverma&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=3" />
 </p>
 
 ---
