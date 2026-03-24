@@ -1,5 +1,13 @@
 # Hi, I'm Sachin Kumar Verma 👋
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Sachin%20Kumar%20Verma&fontSize=40&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node+%7C+JavaScript;Building+Cool+Projects;Always+Learning+New+Things+🚀" />
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sachin--kumar--verma-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sachin-kumar-verma)
 [![Email](https://img.shields.io/badge/Email-sachinv1410@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sachinv1410@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=sachinkumarverma&color=blueviolet&style=for-the-badge)](https://github.com/sachinkumarverma)
