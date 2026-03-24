@@ -1,11 +1,21 @@
 # 👋 Hey, I'm Sachin
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Sachin%20Kumar%20Verma&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Sachin%20Kumar%20Verma&fontSize=42&fontColor=ffffff" />
 </p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sachinkumarverma&label=Visitors&color=blueviolet&style=flat-square" />
+  <a href="https://linkedin.com/in/sachin-kumar-verma">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&scale=1.3" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:sachinv1410@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white&scale=1.3" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=sachinkumarverma&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
+
 ---
 
 ## 🚀 About Me
@@ -58,18 +68,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/sachin-kumar-verma">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:sachinv1410@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
 
 ## 💡 Quote
 
