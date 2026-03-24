@@ -44,14 +44,6 @@
 
 ---
 
-## 🏆 Trophies & Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sachinverma&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=3" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 ![Snake dark](https://raw.githubusercontent.com/sachinkumarverma/sachinkumarverma/output/snake-dark.svg)
