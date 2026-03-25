@@ -67,31 +67,20 @@
 <p align="center">
   <!-- Streak Stats (Dark/Light support) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Vimlesh-Kumar&theme=tokyonight&hide_border=true&background=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Vimlesh-Kumar&theme=default&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=Vimlesh-Kumar&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sachinkumarverma&theme=tokyonight&hide_border=true&background=0D1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=sachinkumarverma&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=sachinkumarverma&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
   </picture>
 </p>
 
 <p align="center">
   <!-- Trophies -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ryo-ma.vercel.app/?username=Vimlesh-Kumar&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ryo-ma.vercel.app/?username=Vimlesh-Kumar&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=1" />
-    <img src="https://github-profile-trophy-ryo-ma.vercel.app/?username=Vimlesh-Kumar&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" alt="Trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ryo-ma.vercel.app/?username=sachinkumarverma&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ryo-ma.vercel.app/?username=sachinkumarverma&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=1" />
+    <img src="https://github-profile-trophy-ryo-ma.vercel.app/?username=sachinkumarverma&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" alt="Trophies" />
   </picture>
 </p>
-
-### ⏱ WakaTime Development Activity
-
-_(Auto-updated daily via GitHub Actions)_
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2012%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.22%20million%20lines%20of%20code-blue?style=flat)
 
 
 ---
