@@ -45,10 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkumarverma&layout=compact&theme=github_dark&hide_border=true" width="40%"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sachinkumarverma&theme=github-dark-blue&hide_border=true"/>
-</p>
-
 ---
 
 ## 🐍 Contribution Snake
