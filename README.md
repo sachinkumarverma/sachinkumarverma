@@ -64,6 +64,10 @@
 
 ---
 
+## 🐱 My GitHub Data
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinkumarverma&show_icons=true&theme=dark&hide_border=true)
+
 ## 📈 Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachinkumarverma&theme=github-compact&hide_border=true)](https://github.com/sachinkumarverma)
