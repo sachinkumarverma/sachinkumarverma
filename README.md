@@ -53,10 +53,6 @@
 
 ---
 
-## ⏱ WakaTime Development Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ### 🏆 Trophies & Streaks
 
