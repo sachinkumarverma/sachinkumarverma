@@ -66,12 +66,11 @@
 </p>
 
 <p align="center">
-  <!-- Trophies -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ryo-ma.vercel.app/?username=sachinkumarverma&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ryo-ma.vercel.app/?username=sachinkumarverma&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=1" />
-    <img src="https://github-profile-trophy-ryo-ma.vercel.app/?username=sachinkumarverma&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" alt="Trophies" />
-  </picture>
+  <img
+    src="./assets/github-trophy.svg"
+    alt="GitHub trophies"
+    width="90%"
+  />
 </p>
 
 
